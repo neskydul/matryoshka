@@ -47,7 +47,7 @@
 			<p>It´s an other option similar to fontello, but from my point of view a little better.</p>
 <p>There are lost´s of icons but... it also has a wonderfull option to upload your own .svg and it will convert it to a font!</p>
 <p>I´ve used it for Matryoshka´s logo in the header of the page, as a font it´s a vector so it will be displayed perfectly in all resolutions, and you can also add all the css properties that you can add to a text.</p>
-<p><a href="http://icomoon.io/app/">There you have the link to Icomoon</a></p>
+<p><a target="_blank" href="http://icomoon.io/app/">There you have the link to Icomoon</a></p>
 
 			
 		</article>
