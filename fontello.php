@@ -47,7 +47,7 @@
 			<p>Now a days there are a lots of screen sizes and also screen resolutions.</p>
 <p>There is a big issue trying to show images for high resolution displays, for standard background pictures we have a speciall media query: @media screen and (-webkit-min-device-pixel-ratio : 1.5), screen and (min-device-pixel-ratio : 1.5) but there are other pictures that can not be displayed as background, for example the icons to show before a lists or some titles.</p><p>For this particular case fontello is a great solution.</p>
 <p>Once you chose the icons you want, fontello will make a font with them so that you can use those icons in :before.</p> <p>You´ll download a .zip file with the font and the instructions with the necesary code to use it.</p>
-<p><a href="http://fontello.com/">Go to fontello and have a look!</a></p>
+<p><a target="_blank" href="http://fontello.com/">Go to fontello and have a look!</a></p>
 
 			
 		</article>
