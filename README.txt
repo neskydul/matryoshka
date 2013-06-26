@@ -39,14 +39,10 @@ Under the following conditions:
     Notice — For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to this web page.
 
 
-
+ESPAÑOL
 1-¿Qué es Matryoshka?
 	Matryoshka es una Guia de Estilos gracias y de código libre que te permite contruir sitios Web facilmente siguiendo los exemplos de http://matryoshka.anapujanajimenez.com/
 
-ESPAÑOL
-
-1-What is Matryoshka?
-	Matryoshka is a free and OpenSource Style Guide wich enables you to build Web sites easyer following the examples in http://matryoshka.anapujanajimenez.com/
 
 Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
 
